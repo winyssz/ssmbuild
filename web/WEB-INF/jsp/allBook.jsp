@@ -16,7 +16,6 @@
             <div class="page-header">
                 <h1>
                     <small>书籍列表 —— 显示所有书籍</small>
-                    123
                 </h1>
             </div>
         </div>
