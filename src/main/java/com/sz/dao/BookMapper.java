@@ -11,4 +11,6 @@ public interface BookMapper {
     int updateBook(Books books);
     Books queryBookById(@Param("bookId") int id);
     List<Books> queryAllBook();
+    //根据id查询,返回一个Book
+    Books queryBookByName(String bookName);
 }
